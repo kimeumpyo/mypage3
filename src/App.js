@@ -62,7 +62,6 @@ export default function App() {
       {/* header */}
       <header>
         <div className="header_flex">
-          {/* <a href="#" className="header_a">&#9776;</a> */}
           <h1 className="header_h1">❄ 결빙 사고 다발지역</h1>
           
           <div className='header_button'>
